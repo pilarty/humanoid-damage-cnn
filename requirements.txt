@@ -1,0 +1,4 @@
+boto3
+botocore[crt]
+google-genai
+python-dotenv
