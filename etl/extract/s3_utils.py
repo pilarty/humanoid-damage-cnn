@@ -20,11 +20,14 @@ def listar_imagenes(bucket: str, prefix: str = "") -> list[str]:
     return sorted(imagenes)
 
 
-def descargar_imagen(bucket: str, key: str) -> Image.Image:
-    """Baja los bytes de una imagen desde S3 y la abre con PIL, sin guardar en disco."""
+def descargar_imagen(bucket: str, key: str, max_size: int = 500) -> Image.Image:
+    """Baja los bytes de una imagen desde S3 y la abre con PIL, reducida para visualización."""
     resp = s3.get_object(Bucket=bucket, Key=key)
     data = resp["Body"].read()
-    return Image.open(io.BytesIO(data))
+    img = Image.open(io.BytesIO(data))
+    img.load()  # fuerza la decodificación completa antes de cerrar el buffer
+    img.thumbnail((max_size, max_size))  # reduce el tamaño en memoria
+    return img
 
 
 def descargar_bytes(bucket: str, key: str) -> bytes:
