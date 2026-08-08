@@ -5,3 +5,4 @@ __pycache__/
 notebooks/data/
 .ipynb_checkpoints/
 notebooks/data_deteccion/
+**/.ipynb_checkpoints/
