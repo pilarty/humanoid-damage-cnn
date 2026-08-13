@@ -1,0 +1,9 @@
+{
+  "Diagonal crack": 0.45,
+  "Concrete spalling": 0.65,
+  "Corrosion": 0.6,
+  "Shear crack": 0.25,
+  "Flexural/rocking crack": 0.1,
+  "Debris": 0.35,
+  "Detachment crack": 0.75
+}
