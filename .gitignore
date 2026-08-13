@@ -7,3 +7,4 @@ notebooks/data/
 notebooks/data_deteccion/
 **/.ipynb_checkpoints/
 .claude
+data_deteccion/**
