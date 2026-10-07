@@ -1,8 +1,6 @@
 boto3
 botocore[crt]
 python-dotenv
-
-# ETL de clasificacion (notebooks/cnn_damage_classification_ETL_final.ipynb)
 pandas
 pillow
 matplotlib
