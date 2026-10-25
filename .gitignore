@@ -10,3 +10,4 @@ notebooks/data_deteccion/
 data_deteccion/**
 notebooks/data_clasificacion/
 notebooks/imagenes_test_clasificacion/
+notebooks/data_superficies/
