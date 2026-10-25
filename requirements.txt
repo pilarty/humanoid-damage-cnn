@@ -4,5 +4,8 @@ python-dotenv
 pandas
 pillow
 matplotlib
+seaborn
 ipykernel
+nbformat
 tensorflow
+scikit-learn
