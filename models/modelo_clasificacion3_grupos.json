@@ -1,0 +1,61 @@
+{
+  "Structural crack": [
+    "Diagonal crack",
+    "Flexural/rocking crack",
+    "Shear crack",
+    "Detachment crack",
+    "stairstep_crack",
+    "-1-Earthquake-Induced Cracks And Collapses",
+    "crack",
+    "Crack"
+  ],
+  "Surface flaking/exfoliation": [
+    "-2-Blistering",
+    "-8-Flaking",
+    "peeling_paint",
+    "-9-Exfoliation",
+    "-3-Alveolization"
+  ],
+  "Salt weathering": [
+    "-5-Salt Crystallization",
+    "16.Subflorescence",
+    "17.Sugaring",
+    "18.Surface Crust"
+  ],
+  "Material loss/erosion": [
+    "12.Disintegration",
+    "14. Erosion",
+    "20. Loss Of Material-Lack"
+  ],
+  "Moisture/water damage": [
+    "water_seepage",
+    "-7. Water Damage-Rising-Damp",
+    "Soil moisture",
+    "Stagnant water",
+    "Wet surface"
+  ],
+  "Biological growth": [
+    "10.Biological Colonization-Microbial",
+    "21.Patina Biologica",
+    "mold"
+  ],
+  "Corrosion": [
+    "Corrosion",
+    "-2.Corrosion-Local-Widespread",
+    "12-Corrosion-Local Widespread"
+  ],
+  "Concrete spalling": [
+    "Concrete spalling"
+  ],
+  "Vegetation": [
+    "Vegetation",
+    "-4-Vegetation-Advanced Stage"
+  ],
+  "Delamination": [
+    "13-Delamination-Localized Spread",
+    "-3.Delamination-Localized-Spread"
+  ],
+  "Vandalism": [
+    "10-Vandalism"
+  ]
+}
