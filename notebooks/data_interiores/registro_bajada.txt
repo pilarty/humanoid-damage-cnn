@@ -1,0 +1,2 @@
+fotos de interiores sin personas disponibles: 1659
+bajadas: 1659 fotos en C:\Users\pilar\Documents\humanoid-damage-cnn\notebooks\data_interiores\fotos

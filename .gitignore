@@ -11,3 +11,7 @@ data_deteccion/**
 notebooks/data_clasificacion/
 notebooks/imagenes_test_clasificacion/
 notebooks/data_superficies/
+notebooks/data_interiores/fotos
+notebooks/data_interiores/paquete
+notebooks/data_interiores/paquete_interiores.zip
+notebooks/data_interiores/meta/
