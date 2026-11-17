@@ -1,0 +1,38 @@
+[NbConvertApp] Converting notebook notebooks/parte4/cnn_damage_detection_training4.ipynb to notebook
+/home/johndoe/Escritorio/dev/pili/humanoid-damage-cnn/.venv/lib64/python3.13/site-packages/nbformat/validator.py:434: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  _validate(nbdict, ref, version, version_minor, relax_add_props)
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1794765095.563990   18585 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+I0000 00:00:1794765095.673700   18585 cpu_feature_guard.cc:227] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1794765097.833998   18585 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+E0000 00:00:1794765184.311689   18585 cuda_platform.cc:52] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+W0000 00:00:1794765188.677197   19448 cpu_allocator_impl.cc:82] Allocation of 23970816 exceeds 10% of free system memory.
+W0000 00:00:1794765188.681409   19445 cpu_allocator_impl.cc:82] Allocation of 45163008 exceeds 10% of free system memory.
+W0000 00:00:1794765188.679186   19450 cpu_allocator_impl.cc:82] Allocation of 23970816 exceeds 10% of free system memory.
+W0000 00:00:1794765188.684206   19444 cpu_allocator_impl.cc:82] Allocation of 36499968 exceeds 10% of free system memory.
+W0000 00:00:1794765188.699156   19447 cpu_allocator_impl.cc:82] Allocation of 36578304 exceeds 10% of free system memory.
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+[NbConvertApp] Writing 18470267 bytes to notebooks/parte4/cnn_damage_detection_training4_executed.ipynb

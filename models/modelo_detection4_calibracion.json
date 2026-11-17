@@ -1,0 +1,5 @@
+{
+  "temperatura": 0.9,
+  "umbral_dano": 0.58,
+  "salida_modelo": "probabilidad de undamaged"
+}
